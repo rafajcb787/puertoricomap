@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Roadtripeado PR | Family Road Trip Planner</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__content">
+        <p class="badge">Roadtripeado Maps 9.0</p>
+        <h1>Discover Family Road Trips Across Puerto Rico</h1>
+        <p>
+          Plan one-day or weekend adventures by category, region, municipio, accessibility,
+          and drive preference.
+        </p>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel planner">
+        <h2>Road Trip Planner</h2>
+        <div class="grid">
+          <label>Category
+            <select id="category"></select>
+          </label>
+          <label>Region
+            <select id="region"></select>
+          </label>
+          <label>Municipio
+            <select id="municipio"></select>
+          </label>
+          <label>Accessibility
+            <select id="access">
+              <option value="any">Any</option>
+              <option value="Fácil Acceso">Easy access</option>
+              <option value="Difícil Acceso">Difficult access</option>
+            </select>
+          </label>
+          <label>Trip Type
+            <select id="duration">
+              <option value="any">Any</option>
+              <option value="day">One-day</option>
+              <option value="weekend">Weekend</option>
+            </select>
+          </label>
+          <label>Drive Preference
+            <select id="drive">
+              <option value="any">Any</option>
+              <option value="short">Short drive</option>
+              <option value="medium">Medium drive</option>
+              <option value="long">Long drive</option>
+            </select>
+          </label>
+        </div>
+        <div class="actions">
+          <button id="planBtn">Build Trip</button>
+          <button id="resetBtn" class="ghost">Reset</button>
+        </div>
+      </section>
+
+      <section class="panel stats" id="stats"></section>
+
+      <section class="panel">
+        <h2>Suggested Stops</h2>
+        <div id="results" class="cards"></div>
+      </section>
+    </main>
+
+    <template id="cardTemplate">
+      <article class="card">
+        <h3></h3>
+        <p class="meta"></p>
+        <p class="tags"></p>
+        <p class="contact"></p>
+      </article>
+    </template>
+
+    <script src="script.js" type="module"></script>
+  </body>
+</html>

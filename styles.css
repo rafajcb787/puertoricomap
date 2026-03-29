@@ -1,0 +1,77 @@
+:root {
+  --bg: #081229;
+  --panel: #0f1d3d;
+  --panel-soft: #13254d;
+  --text: #eef4ff;
+  --muted: #b4c4e4;
+  --accent: #00d2ff;
+  --accent-2: #5ef38c;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  color: var(--text);
+  background: radial-gradient(circle at top, #11306e, var(--bg) 55%);
+}
+.hero { padding: 3rem 1rem 1.5rem; text-align: center; }
+.hero__content { max-width: 860px; margin: 0 auto; }
+.badge {
+  display: inline-block;
+  padding: .35rem .75rem;
+  border-radius: 999px;
+  background: rgba(0, 210, 255, .18);
+  border: 1px solid rgba(0, 210, 255, .5);
+}
+h1 { margin: 1rem 0 .5rem; font-size: clamp(1.8rem, 4vw, 3rem); }
+.layout {
+  max-width: 1100px;
+  margin: 0 auto 3rem;
+  padding: 0 1rem;
+  display: grid;
+  gap: 1rem;
+}
+.panel {
+  background: linear-gradient(180deg, var(--panel), var(--panel-soft));
+  border: 1px solid rgba(255, 255, 255, .08);
+  border-radius: 16px;
+  padding: 1rem;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, .28);
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: .8rem;
+}
+label { display: grid; gap: .35rem; color: var(--muted); font-size: .88rem; }
+select, button {
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, .14);
+  background: #09152f;
+  color: var(--text);
+  padding: .6rem .7rem;
+}
+.actions { display: flex; gap: .6rem; margin-top: .9rem; }
+button { cursor: pointer; font-weight: 600; }
+button#planBtn { background: linear-gradient(120deg, var(--accent), #579bff); color: #042542; border: none; }
+button.ghost { background: transparent; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .6rem; }
+.stat {
+  padding: .85rem;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, .03);
+  border: 1px solid rgba(255, 255, 255, .08);
+}
+.stat b { display: block; font-size: 1.35rem; color: var(--accent-2); }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: .8rem; }
+.card {
+  background: rgba(3, 15, 39, .75);
+  border: 1px solid rgba(255, 255, 255, .09);
+  border-radius: 12px;
+  padding: .8rem;
+}
+.meta, .contact { color: var(--muted); font-size: .9rem; }
+.tags { color: #86dcff; font-size: .84rem; }
+@media (max-width: 640px) {
+  .hero { padding-top: 2rem; }
+}

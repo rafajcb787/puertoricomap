@@ -1,3 +1,6304 @@
 {
-  "places": []
+  "places": [
+    {
+      "name": "Playa Puerto Nuevo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Área Metro",
+      "municipio": "Metro / Norte PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Laguna del Condado",
+      "category": "🏖️  Playas & Rios",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Balneario del Escambrón",
+      "category": "🏖️  Playas & Rios",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Balneario Punta Salinas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Área Metro",
+      "municipio": "Metro / Norte PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Manantial De Guayaney",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Manatí",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Manantial Ojo de Agua",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Vega Baja",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Manantial Tortuguero Spring",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Vega Baja",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Zanja Fría",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco Azul de Vega Baja",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Morovis",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada La Planta Electrica",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Norte PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Primera Cascada de la Planta",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Jurassic Park Arecibo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Norte PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Piscina Natural La Esperanza",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Mar Chiquita",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Manatí",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Poza de las Mujeres",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Montones",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Las Palmas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Manatí",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa La Esperanza Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Tómbolo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Caracoles",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Poza del Obispo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Puerto Hermina",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa La Boca",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Piscinas Manati",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Manatí",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Sardinera",
+      "category": "🏖️  Playas & Rios",
+      "region": "Norte",
+      "municipio": "Hatillo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Las Paylas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Luquillo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco el Hippie",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Naguabo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada Juan Diego",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada La Mina (La Mina Falls)",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Quebrada Sonadora",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Los Pilones Waterfall",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Catarata Coca",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco Frío",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Naguabo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cataratas del Rio Blanco",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Naguabo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Reserva Natural La Poza del Angel",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Luquillo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada Río Espíritu Santo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Las Tinajas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Este PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Zanja",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Escondida",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Fajardo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa La Selva",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Luquillo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Laguna Grande Bioluminiscente",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Fajardo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Punta Tuna",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Maunabo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Teresa",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Yabucoa",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa los Bohios",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Maunabo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Canal Turquesa de Humacao",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Sureste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Balneario Seven Seas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Fajardo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Colorá",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Fajardo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Guano Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Yabucoa",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa las Picuas, Rio Grande",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Luquillo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Baciatalega",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Loíza",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Terraplen La Posita de Piñones",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Carolina Public Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Icacos",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Isla Palomino",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Laguna La Torrecilla",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Laguna de Piñones",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cayo Santiago \"Isla de los Monos\"",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Naguabo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente Roto",
+      "category": "🏖️  Playas & Rios",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cañon el Salto",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Coamo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco Azul de Patillas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Sur PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Soplaera Waterfall",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Peñuelas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Salto Collores Waterfall",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Villalba",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada Dos Brazos",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Peñuelas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Survivor",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Sur PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa La Jungla",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa almendro",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Gilligans Island",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cayo Matias",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Sur PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cayo Isla Perdía",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Sur PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco de los Suspiros",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Villalba",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco La Oreja",
+      "category": "🏖️  Playas & Rios",
+      "region": "Sur",
+      "municipio": "Coamo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada de Gozalandia",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "San Sebastián",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco El Pilón",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Maricao",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Salto Collazo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "San Sebastián",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco la Iglesia",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Maricao",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Salto De Atalaya",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Aguada",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Salto Curet",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Maricao",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Salto Santa Clara",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada Chorro de Doña Juana",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada la Fortuna",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Último Brinco",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Rincón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada Jurutungo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada al Mar",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charca Escondida",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "San Sebastián",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Río Puente de Cacao",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco Azul de Ponce",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente Chuco Ramos \"El Salto\"",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Aguada",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco Los Peces",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco Las golondrinas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "San Sebastián",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Salto El Velo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Canal Turquesa de Desecheo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Pájaros",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Brava",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Uvero",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Sardinera",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Crash Boat Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Survival Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Difícil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Peña Blanca beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Bahía Bioluminiscente de La Parguera",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa El Combate",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Buyé Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Sucia",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Laguna Guaniquilla",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Canal Turquesa de Rincon",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Rincón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Boqueron",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Isla Mata La Gata",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cayo Enrique",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playita Azul",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Cañones",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Aguada",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Punta Borinquen",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Escalera - Reserva Marina Tres Palmas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Rincón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Salinas de Cabo Rojo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco Prieto Waterfall",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Mirador del Cañon San Cristobal",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Barranquitas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada Las Delicias",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Jayuya",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada las Escaleras",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Jayuya",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada la Danzante",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Jayuya",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco El Ataúd",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Adjuntas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada del Lago Garzas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Adjuntas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Mete Miedo Waterfalls",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Niebla Falls",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Barranquitas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Salto La Plazuela",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Orocovis",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco Los Morones",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Utuado",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Salto de la Vaca",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cañón Blanco",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Jayuya",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Remolino",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco Azul de Barranquitas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Barranquitas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cascada el Saltillo",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Lares",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Lago Caonillas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Utuado",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charco la tajea",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Orocovis",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Plaza Mirador de la Represa",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Charca La Guitarra",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Orocovis",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Las Cataratas de Naranjito",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Naranjito",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cañon Tornasol",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Los 7 Chorros",
+      "category": "🏖️  Playas & Rios",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Flamenco",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Zoni",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tamarindo Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Negra",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Piscinas Naturales de Culebra",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puerto Mosquito Bioluminescent Bay",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Caracas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Mosquito Pier",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Resaca",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Brava",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Carlos Rosario",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Tamarindo Grande Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Luis Pena Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Tortuga",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Playa Sardinas",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Mosquito Beach",
+      "category": "🏖️  Playas & Rios",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Pa Onde Sea Restaurant",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "-",
+      "contact": "Tel: 787-717-2100 / 939-716-0000 | www.Paondesea.com | Tío Papo Restaurant | Carolina",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Las Nanas",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Tuttobene Ristorante",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Frappe Artesanal Carolina",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "La Taberna",
+      "access": "Metro / Norte PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Hijos de la Gran Fruta",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Bambú Burger",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Bistro Café",
+      "access": "Metro / Norte PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "El Platanal Carolina",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Señor Paleta",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Ben & Jerry’s",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "El Hamburguer",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "ASIA CUISINE",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Rincón del Viajero Cafe",
+      "access": "Trujillo Alto",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Bebo's BBQ",
+      "access": "Metro / Norte PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Burger & Mayo Lab",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "The Perfect Tray PR",
+      "access": "Bayamón",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "India House",
+      "access": "Metro / Norte PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "ROSADO Coffee",
+      "access": "Toa Alta",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Shiraz PR",
+      "access": "Guaynabo",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Restaurante & Pizzería Sorriso",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Taco Naco",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Papelón con Limón",
+      "access": "Guaynabo",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Burger Box",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Echate Pa'k Bar & Grill",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "FrappeLatte",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Dokas Donas",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Sorbo Café",
+      "access": "Metro / Norte PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Trópiko",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Peccas Helados Artesanales",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Explotion Pizza",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Explotion Pizza #2",
+      "access": "Metro / Norte PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Burrillos Carolina",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "Anita La Mamma del Gelato",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Área Metro",
+      "municipio": "My Restaurant La Lechonera",
+      "access": "Guaynabo",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Jobos Mojito Beach Bar and Restaurant",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Potter Pizza & ButterBar",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Sabor Arte Picnic",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Hatillo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Sushi Kytto Bar Dorado",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Dorado",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Old West Town Restaurant",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Savanna Restaurant",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hatillo Road House Bar & Grill",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Hatillo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Res al Fuego",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Hatillo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Joe & Joe Sandwiches and Bakeshop",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Hatillo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Criollo Sandwich",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "CACAU Chocolate Bistro",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Ruta Del Gyro",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Hatillo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Mr Frappe Hatillo",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Hatillo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Puesto Bar & Grill",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Lolita's",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Luquillo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Platanal Piñones",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Casa del Indio",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Kiosko Los Dos Pinos",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Below Zero",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Canóvanas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Paseo Playero Restaurant & Bar",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Naguabo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hijole Cocina Mexicana (Colobos)",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Canóvanas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Estación",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Fajardo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Cueva del Mar",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Ceiba",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Vagón Luquillo",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Luquillo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Laguna Grande Restaurant",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Fajardo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Don Paco PR",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Humacao",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Rancho el Campo restaurant",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Yabucoa",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Kafe",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Este",
+      "municipio": "Humacao",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Mojito Grill and Sports Bar",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Salinas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Trasiego",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Vida",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Guayama",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Restaurante Q'lantro",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Yauco",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antojitos Ice Bar",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Santa Isabel",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Sunset Bar & Grill",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Santa Isabel",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Don Bistro",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Carnaval Restaurant and Bar",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Coamo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Patria Fondita Criolla Creativa",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Coamo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Area Code Sport Bar & Grill",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Juana Díaz",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Fercol Pastry & Bakery",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hostos Beergarden",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Guayama",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Sweetfire Hub",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Yauco",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hard Rock Cafe",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "King's Cream",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Obra Maestra",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Dulce Locura",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Villalba",
+      "access": "-",
+      "contact": "Tel: 939-422-4709 | Bread & Butter Co. | Villalba",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 939-422-4709",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Sur",
+      "municipio": "Otoro Sushi",
+      "access": "Guayama",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Pepperoni Pizza Pasta & Bar",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "San Sebastián",
+      "access": "-",
+      "contact": "Tel: 787-455-2210 | www.pepperonipr.com | Desecheo Restaurant | Aguadilla",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "La Guarida del Ermitaño",
+      "access": "Añasco",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Galaxy Frappe",
+      "access": "Aguadilla",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Don Frappe",
+      "access": "Añasco",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Mahi Mahi Restaurant",
+      "access": "Añasco",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "BQN Brunch & Burgers",
+      "access": "Aguadilla",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Sha's",
+      "access": "San Sebastián",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "El rancho de la abuela",
+      "access": "Lajas",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "The Point Street Food",
+      "access": "Aguadilla",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Arepas To Go and more",
+      "access": "Noroeste PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Food Truck Vatos Locos",
+      "access": "Rincón",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "El Tablazo",
+      "access": "San Germán",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Mango's Bar & Restaurant",
+      "access": "Aguada",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Ice Land",
+      "access": "Hormigueros",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Mojitos Jalian Y Su Toqué Criollo",
+      "access": "Lajas",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Rest turrumote",
+      "access": "Noroeste PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Rex Cream",
+      "access": "Aguadilla",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "La Cueva Del burro",
+      "access": "Rincón",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "Mia Panini",
+      "access": "Mayagüez",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Oeste",
+      "municipio": "El Rincón de Los Recuerdos",
+      "access": "Maricao",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Pa saborear Acai & ice cream",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Central / Montaña",
+      "municipio": "Juncos",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Atirantado Bar & Grill",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Supremos PR",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Central / Montaña",
+      "municipio": "Caguas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "GALAXY BURGERS",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Central / Montaña",
+      "municipio": "Caguas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Del Romano Pizza",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Central / Montaña",
+      "municipio": "Caguas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Las Caras Lindas Foodtruck",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Central / Montaña",
+      "municipio": "Caguas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Crepes By Us",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Central / Montaña",
+      "municipio": "Caguas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Boritalian Pizza Gurabo",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Central / Montaña",
+      "municipio": "Gurabo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "The Frappe Factory",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Central / Montaña",
+      "municipio": "Las Piedras",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casa Nativo",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Cocina Del Navegante",
+      "category": "🍽️  Restaurantes y Heladerias",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Garita del Diablo",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puerta de San Juan",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casa Rosa",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Castillo San Felipe del Morro",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Castillo de San Cristóbal",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Fortín del Escambrón",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Fortín de San Jerónimo del Boquerón",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas del Antiguo Leprocomio",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Fortín San Juan de la Cruz (El Cañuelo)",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de Caparra",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Polvorín de Santa Elena (1783)",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Faro del Castillo San Felipe del Morro",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de Carolina",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casilla del Peon Caminero",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Toa Alta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casillas de Camineros",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hacienda Santa Ana",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente de Trujillo Alto",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Trujillo Alto",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Polvorín San Gerónimo de Boquerón",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Polvorín de Miraflores",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de la Hacienda Buena Vista",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Iglesia San José",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas De La Ermita Nta. Sra. De La Candelaria",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Metro / Norte PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Catedral de San Juan Bautista",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Fernando Rey de la Carolina",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia Nuestra Señora del Pilar",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Metro / Norte PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia Invención de la Santa Cruz",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Pedro Mártir",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Guaynabo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San José",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Pedro Apóstol",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Toa Baja",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Fernando Rey",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Toa Alta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Garita de la Batería San Ramón",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de la 2da Línea de Defensa",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de la 3ra línea de defensa",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Bastion Isabel II",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Fortín San Antonio",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antiguo Acueducto Río Piedras",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Metro / Norte PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antiguo Aljibe de Carolina",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cuartel de Ballajá",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Fortaleza",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Monumento a Juan Ponce de León",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Capilla del Santo Cristo de la Salud",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tumba de Juan Ponce de León",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casa de guardias de santa elena",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Calabozo Histórico Museum",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Francisco de Asis",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Teatro Alejandro Tapia y Rivera",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antiguo Casino de Puerto Rico",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Polvorín de San Miguel Arcángel",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas Central Plazuela",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas del Fortín del Puerto Hermina",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Túnel de Guajataca",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Túnel Negro",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente La Bellaca",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Arecibo Lighthouse and Historical Park",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente Blanco",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hacienda La Esperanza Para la Naturaleza",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cementerio San Rafael de las Quebradillas",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Iglesia Ernesto Memorial",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Camuy",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Antonio de Padua",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Dorado",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Antonio de Padua",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia La Inmaculada Concepción",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Vega Alta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia Nuestra Señora del Rosario",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Vega Baja",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Catedral de San Felipe Apóstol",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ermita de San Antonio de Padua de la Tuna",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "San Vicente Sugar Mill",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Vega Baja",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de la Chimenea del Antiguo Ingenio Azucarero Santa Águeda",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Norte PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas del Horno de Cal",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Faro de Las Cabezas de San Juan",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Punta Tuna Lighthouse - Faro de Punta Tuna",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Maunabo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Old Tower",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Torre Britton",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Torre Yokahú (Yokahu Tower)",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de la Central Azucarera Columbia",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Maunabo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "WW 2 Bunker",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Este PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antigua Central Azucarera de Canóvanas",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Canóvanas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia del Espíritu Santo y San Patricio",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Loíza",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia Santiago Apóstol",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Fajardo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia Nuestra Señora del Carmen",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Río Grande",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de la Hacienda La Lucía",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Yabucoa",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antigua Central Azucarera Antonio Roig",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Yabucoa",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Castillo Villa del Mar",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Naguabo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casa Museo Jesús T. Piñero",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Canóvanas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Bunker de Piñones",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Loíza",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El barco hundido",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Maunabo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hacienda San Isidoro",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Patillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Baño Grande",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Baño de Oro",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antiguo Acueducto El Tuque",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Molino la Carlota",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Guayama",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Chimenea de yauco",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Yauco",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Fuerte Caprón",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas del Faro de Guánica",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Punta Figuras Lighthouse",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Arroyo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antiguo Faro de Cayo Cardona (Lighthouse)",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antiguo Molino La Berdedera",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Arroyo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente Colgante de Fuig",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas del Edificio de la Era Española",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Yauco",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Acueducto Alfonso XII",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Molino de Vives",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Guayama",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Iglesia Vieja",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Arroyo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antiguo Horno De Cal",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Guayama",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parque de Bombas",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de la Hacienda María Antonia",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Central Guánica",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de Juana Diaz",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Juana Díaz",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Antonio de Padua",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Guayama",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Catedral Nuestra Señora de Guadalupe",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de la Central San Francisco",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Yauco",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Central Cortada",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Santa Isabel",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Central Lafayette",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Arroyo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antiguo Puente Ferroviario de Ponce y Guayama de la Central Aguirre",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Arroyo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antigua Central Aguirre",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Salinas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente General Santiago Méndez Vigo",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Coamo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Locomotora de Arroyo",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Sur",
+      "municipio": "Arroyo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Castillo Labadie",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tunel de Rincón",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Rincón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Túnel Guaniquilla",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas del Faro",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Faro Los Morrillos",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Faro de Caja de Muerto",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Faro de Isla de Mona",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Faro de Punta Borinquén",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Faro de Rincón",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Rincón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Pirámide de Aguada",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Aguada",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Torre de Piedra",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Maricao",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Las Ruinas De Guaniquilla",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Barcos Estancados",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Central Azucarera Coloso",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Aguada",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Parterre",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Pozo antiguo",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Iglesia Porta Coeli",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "San Germán",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Germán de Auxerre",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "San Germán",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia Nuestra Señora de la Monserrate",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Moca",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Sebastián Martir",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "San Sebastián",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Miguel Arcángel",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hacienda Lealtad",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Casa del Peón Caminero",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Mayagüez",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hacienda Coto",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "San Germán",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antigua Central Eureka",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Hormigueros",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Muelle de Azúcar",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "Difícil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Barandillo",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "San Sebastián",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Escaleras Survival Beach",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Difícil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Barco Hundido de Crash Boat",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tunel de Sandy Beach",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Rincón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Avion de Aguadilla",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente antiguo de las Salinas",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente Colgante \" Old Bridge\"",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Iglesia vieja",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Oeste",
+      "municipio": "Mayagüez",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Esqueletos de la plaza pública de Cayey",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Central / Montaña",
+      "municipio": "Cayey",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente de Hamaca del Lago Garzas",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Central / Montaña",
+      "municipio": "Adjuntas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente Mata de Plátanos \"Ingeniero Juan José Jiménez\"",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Central / Montaña",
+      "municipio": "Ciales",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Federico Degetau I (Cuartel Español)",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Central / Montaña",
+      "municipio": "Aibonito",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente Arenas",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Central / Montaña",
+      "municipio": "Cayey",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia San Miguel Arcangel",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Central / Montaña",
+      "municipio": "Utuado",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia Nuestra Señora de la Asunción",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Central / Montaña",
+      "municipio": "Cayey",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Catedral De Caguas",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Central / Montaña",
+      "municipio": "Caguas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo El Fortín de Conde Mirasol",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Sugar Mills Ruins/ Playa Grande",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ruinas de Vieques",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Verdiales Lighthouse",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Faro Puerto Mulas",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Faro de Culebrita",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tanque de Playa Flamenco",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Second tank Flamenco",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tanque de Culebrita",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia Santiago Apóstol e Inmaculada Concepción",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parroquia Nuestra Señora del Carmen",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Bunker 310",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Bunker",
+      "category": "🏰  Faros | Castillos | Ruinas | Tunel | Puentes",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Paseo del Morro",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Paseo Lineal Blasina",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Girasolero",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Jardín Botánico de la UPR",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "Metro / Norte PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Villa Carolina",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba del Vertedero",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Toa Baja",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "Toa Alta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "AeroParque",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "Metro / Norte PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parque de las Palomas",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Paseo de la Princesa",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Fuente de las Raíces",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parque Nacional Julio Enrique Monagas",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tablado de Isabela",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tablado De Hatillo",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Norte",
+      "municipio": "Hatillo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Bosque Estatal De Guajataca",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Norte",
+      "municipio": "Norte PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Merendero de Guajataca",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Las Dos Ceibas",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Guerrero",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Isabela",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Estatua de Colon",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Estatua de la Libertad de Arecibo",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tablado de Piñones",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Reserva Natural Bosque de Piñones",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Bosque de Pterocarpus",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Este",
+      "municipio": "Sureste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba Atabey",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Este",
+      "municipio": "Patillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de RIo Grande",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Este",
+      "municipio": "Río Grande",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Arbol Agathis robusta",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Jardín Japonés",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Finca El Girasol",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Guánica",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Ceiba de Ponce",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Calle Villa",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Campo Alegre",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Ceiba de Peñuelas",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Peñuelas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Árbol tejido de Yauco",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Yauco",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Salinas",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Salinas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Yaucromatic",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Yauco",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Cruz del Vigía",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Paseo Tablado Punta Pozuelo",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Sur PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Malecón de las Américas",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Sur",
+      "municipio": "Arroyo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tablado Parque de Colón",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de la Libertad",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "San Germán",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Mayaguez",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "Mayagüez",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Ceiba Acostada",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "Lajas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Punta Borinquen",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Villanueva",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casa en Árbol",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Ceiba de Sagres",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Pintalto",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Árbol de Monte Pirata",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Oeste",
+      "municipio": "Mayagüez",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Finca Bee Happy",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Central / Montaña",
+      "municipio": "Aibonito",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Reloj de Flores de Puerto Rico",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Central / Montaña",
+      "municipio": "Aibonito",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Jardín Botánico y Cultural de Caguas William Miranda Marín",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Central / Montaña",
+      "municipio": "Caguas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Mano de Guavate",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parque de la Ceiba de Vieques Reserva Natural",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tablado Purim y Negra",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puesto de Observación del Monte Pirata",
+      "category": "🌿  Tablados | Bosques | Jardines",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Night Kayak",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "-",
+      "contact": "Tel: 787-248-4569 | www.nightkayak.com | San Juan Boat Rentals, LLC | San Juan",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-340-7567 | www.sanjuanboatrental.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "KND Chiliboats Adventure",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-306-3277 | www.waterbikespr.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "Sail Snorkel Party Sloop Airborne",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "www.sailsnorkelparty.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "Try Scuba Diving - San Juan",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-305-1020 | www.tryscubadiving.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "VIP Adventures Puerto Rico",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-466-0131 | www.adventurespuertorico.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "Aqua Fitness",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-903-2141",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "VIP Adventures JETSKI",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "Aquatica Pirates Jet Ski Adventure Tour",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-531-3593",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "El Morro Jet Ski Tours - San juan Bay Marina",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-955-6059 | www.wowsurfingschool.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "Toro Verde Urban Park",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-936-2146 | www.toroverdesj.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Área Metro",
+      "municipio": "Campo Rico Trail Rides - ATV & horseback rides",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Island Kayaking Adventures",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "Fajardo",
+      "access": "-",
+      "contact": "Tel: 787-444-0059 | www.islandkayakingadventure.com | Luquillo Flyboard | Luquillo",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-909-1372 | www.luquilloflyboard.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "Kayak Rental Balneario La Monserrate De Luquillo",
+      "access": "Luquillo",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-381-8148 | www.kayak-rental-balneario-la-monserrate-de.negocio.site",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "Catamaran BAREFOOT IV",
+      "access": "Fajardo",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-791-6195 | www.castillotours.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "Catamaran Spread Eagle II",
+      "access": "Fajardo",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-887-8821 | www.snorkelpr.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "adventure and water sports inc.",
+      "access": "Patillas",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "www.adventureandwatersports.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "Corporación Piñones Se Integra",
+      "access": "Noreste PR",
+      "contact": "Fácil Acceso | Tel: 787-253-9707 | www.copipr.com | La Paseadora Río Espíritu Santo | Río Grande | Fácil Acceso",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "gringos jet ski",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "Luquillo",
+      "access": "-",
+      "contact": "Tel: 787-362-9982 | www.gringosjetski.com | Ocean Pro Adventure | Noreste PR",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-399-1455",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "Carabalí Rainforest Park",
+      "access": "Luquillo",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-889-5820 | www.carabalirainforestpark.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "K1 Speed",
+      "access": "Canóvanas",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-256-7040 | www.k1speed.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "La Finca - Naguabo",
+      "access": "Ceiba",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 939-344-0740 | www.lafincanaguabo.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "Rainforest Zipline Park",
+      "access": "Río Grande",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-370-1010 | www.rainforestzipline.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Este",
+      "municipio": "Junglequi Zipline Park",
+      "access": "Luquillo",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Isla Sea Park",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "Tel: 787-949-0101 | www.islaseapark.com | Eco Water Adventure Jet Ski Rental Puerto Rico | Guánica",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-412-3877 | www.ecowateradventure.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Sur",
+      "municipio": "Caribe Jetski Rental",
+      "access": "Salinas",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Fondo de Cristal Tours & Boat Rental",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "-",
+      "contact": "Tel: 787-899-5891 | www.fondodecristal.com | Parguera Water Sports Adventures & Bioluminescent Bay Tour Boat-Kayak-Swim | Noroeste PR",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-646-6777 | www.biobayparguera.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Oeste",
+      "municipio": "Paradise Scuba & Snorkeling Center",
+      "access": "Noroeste PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-899-7611 | www.paradisescubasnorkelingpr.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Oeste",
+      "municipio": "Parguera Eco Tours & Bio Bay",
+      "access": "Noroeste PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-709-2384 | www.pargueraecotours.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Oeste",
+      "municipio": "Eco Water Adventure",
+      "access": "Noroeste PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-412-3877 | www.ecowateradventure.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Oeste",
+      "municipio": "Aguadilla Water Sports Jet Ski Rental",
+      "access": "Aguadilla",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-455-6566 | www.aguadillawatersports.com",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Oeste",
+      "municipio": "Somos de Aquí Race Track",
+      "access": "Añasco",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Oeste",
+      "municipio": "Journeys Gokart Rental",
+      "access": "Noroeste PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Toro Verde Adventure Park",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Central / Montaña",
+      "municipio": "Orocovis",
+      "access": "-",
+      "contact": "Tel: 787-867-7100 | www.toroverdepr.com",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Aqua Sunset Tours - Bio Bay",
+      "category": "🚣  Kayak | Jetski | ATV | Go Kart | Caballos | Zipline",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "-",
+      "contact": "Tel: 939-208-6147 | www.aquasunsettours.com",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva Julio Enrique Monagas",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva del Viento",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Norte PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva del Indio",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Arecibo",
+      "access": "Difícil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva Ventana",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Norte PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Pozo de Jacinto",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva de las Golondrinas",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Barceloneta",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva Golondrinas",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva Mar Chiquita",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Manatí",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "El Pasadizo de Guajataca",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cara del Indio",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva de Guayaney",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Manatí",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Punta Boquilla",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Norte",
+      "municipio": "Manatí",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva Escondida",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Este",
+      "municipio": "Loíza",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva María de la Cruz",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Este",
+      "municipio": "Loíza",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Roca El Yunque",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Piedra Las Guaretas (Cueva de las Cabras)",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Este",
+      "municipio": "Yabucoa",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Piedra Blanca",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Este",
+      "municipio": "Yabucoa",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Petroglifos Cara de Indios",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Este",
+      "municipio": "Río Grande",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parque Ceremonial Indígena de Tibes",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva Del Pirata Cofresí",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva Jagüey",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Puente de Piedra",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Pico Rodadero",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "Difícil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva de Punta Borinquen",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva de Crash Boat",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva de Survival Beach",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "Difícil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cerro De Las Avispas",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Oeste",
+      "municipio": "Suroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cavernas de Camuy",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "Lares",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cueva Del Arco",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "Utuado",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Cerro Mime",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "Orocovis",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Monte del Retiro",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "Las Piedras",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Peñón La Francia",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parque Ceremonial la Cueva del Indio",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "Las Piedras",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Petroglifos",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "San Lorenzo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Piedra Escrita",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "Jayuya",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Petroglifos del Charco los Morones",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "Utuado",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Centro Ceremonial Indígena de Caguana",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Central / Montaña",
+      "municipio": "Utuado",
+      "access": "Fácil Acceso",
+      "contact": "Tel: 787-894-7325 | www.conoceapuertorico.com | Roca Escrita | Las Piedras | Fácil Acceso",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Hombre De Puerto Ferro",
+      "category": "🪨  Cuevas | Acantilados | Petroglifos",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Vieques",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo y Parque Histórico Ruinas de Caparra",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Galería de los Gigantes",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo Casa Escuté",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo de Historia y Arte de Carolina",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo del Niño de Carolina",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "-",
+      "contact": "Tel: 787-257-0261 | www.museodelninocarolina.com | Casa Blanca | San Juan | Fácil Acceso",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parque de las Ciencias Gobernador Luis A. Ferré",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo de las Américas",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Casa Estrecha",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casa y Museo Felisa Rincón de Gautier",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "San Juan Sip & Paint",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo del Mar - Maritime Museum",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antiguo Arsenal de la Marina Española",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Casa del Libro Museum",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo de San Juan",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo del Tren",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Antigua Estación del Tren de Vega Baja",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Norte",
+      "municipio": "Vega Baja",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Mi Granjita Familiar",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Norte",
+      "municipio": "Quebradillas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Bai Picnic",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Este",
+      "municipio": "Noreste PR",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo Castillo Serrallés",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "Tel: 787-259-1775 | www.museocastilloserralles.com | Casa de la Historia Ramón Rivera \"Bonyé\" | Peñuelas",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Sur",
+      "municipio": "Museo de la Historia de Ponce",
+      "access": "Ponce",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-844-7071",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Sur",
+      "municipio": "Casa y Museo Cautiño",
+      "access": "Guayama",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Sur",
+      "municipio": "Hacienda Los Maldonado",
+      "access": "Salinas",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo de la Historia de San Germán (MHISA)",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Oeste",
+      "municipio": "San Germán",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casa de Doña Bisa",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Oeste",
+      "municipio": "San Sebastián",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo de la Hamaca",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Oeste",
+      "municipio": "San Sebastián",
+      "access": "-",
+      "contact": "Tel: 787-896-2300 | www.munss.org | Museo de Arte de Aguadilla y del Caribe (MAAC) | Aguadilla",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-649-0000",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Oeste",
+      "municipio": "Museo Hacienda La Fe",
+      "access": "San Sebastián",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Oeste",
+      "municipio": "Borinquen Field-Ramey Air Force Base MUSEUM",
+      "access": "Noroeste PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casa y Museo Federico Degetau",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Central / Montaña",
+      "municipio": "Aibonito",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo Arqueológico El Cemí",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Central / Montaña",
+      "municipio": "Jayuya",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo Orocoveño Celestino Avilés Meléndez",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Central / Montaña",
+      "municipio": "Orocovis",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "La Hoja del Chan",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Central / Montaña",
+      "municipio": "Caguas",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Museo Histórico de Culebra",
+      "category": "🏛️  Museos & Experiencias",
+      "region": "Islas (Vieques & Culebra)",
+      "municipio": "Culebra",
+      "access": "-",
+      "contact": "Tel: 787-617-8517 | www.fundaciondeculebra.org",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Carolina Bowling Center",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "Carolina",
+      "access": "-",
+      "contact": "Tel: 787-257-4305 | www.carolinabowling.com | Cupey Bowling & Entertaiment Center | Metro / Norte PR",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-641-1515 | www.cupeybowling.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "AMF Bolera",
+      "access": "Metro / Norte PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-792-6594 | www.amf.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "Dave & Buster's",
+      "access": "Bayamón",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-545-7159 | www.daveandbusters.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "Challenge59 The Escape Room",
+      "access": "Metro / Norte PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-955-8832 | www.challenge59pr.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "Caribbean Cinemas VIP",
+      "access": "San Juan",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-425-0027 | www.caribbeancinemas.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "Bounce Trampoline Park",
+      "access": "Carolina",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-232-2262 | www.bouncetrampolinepark.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "Altitude Trampoline Park Bayamón",
+      "access": "Bayamón",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-705-4154 | www.altitudebayamon.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "Viking Arena",
+      "access": "Metro / Norte PR",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-437-8006 | www.vikingarenapr.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "Parque Acuático Infantil Aquasol 2",
+      "access": "Carolina",
+      "contact": "Fácil Acceso",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "The Wheel",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Condado Dog Park",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parque Central de Bayamón",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "Bayamón",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Parque Infantil del Niño José \"Remi\" Vega",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Área Metro",
+      "municipio": "San Juan",
+      "access": "Fácil Acceso",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Catapult Adventure Park",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "-",
+      "contact": "Tel: 787-430-0288 | www.catapultisabela.com",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Sector Sixty6",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Este",
+      "municipio": "Canóvanas",
+      "access": "-",
+      "contact": "Tel: 787-961-8700 | www.sectorsixty6.com | Parque De Ninos Activos | Fajardo | Fácil Acceso",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Bolera Caribe",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Sur",
+      "municipio": "Juana Díaz",
+      "access": "-",
+      "contact": "Tel: 787-812-0375 | www.boleracaribe.com | Olimpia Water Park | Salinas",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-824-2200 | www.albergueolimpico.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Sur",
+      "municipio": "Aguas Termales de Coamo",
+      "access": "Coamo",
+      "contact": "Fácil Acceso",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Aguadilla Bowling Center",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Oeste",
+      "municipio": "Aguadilla",
+      "access": "-",
+      "contact": "Tel: 787-891-3495 | Salsipuedes Aventuras (Escape Room) | Añasco",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-365-2523 | www.salsipuedesaventuras.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Oeste",
+      "municipio": "Summit Trampoline Park Mayagüez",
+      "access": "Hormigueros",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-903-5085 | www.summitmayaguez.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Oeste",
+      "municipio": "Island Axe",
+      "access": "Mayagüez",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-685-6284 | www.islandaxe.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Oeste",
+      "municipio": "Surf 'N Fun Water Park",
+      "access": "San Germán",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-988-7754 | www.surfnfunwaterpark.com",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Oeste",
+      "municipio": "Parque Acuático Las Cascadas",
+      "access": "Aguadilla",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tu Bolera Jayuya",
+      "category": "🎮  Bowling, Arcade, Game & Park",
+      "region": "Central / Montaña",
+      "municipio": "Jayuya",
+      "access": "-",
+      "contact": "Tel: 939-242-8946 | Altitude Trampoline Park Gurabo | Gurabo",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Best Ice Cram Planet",
+      "category": "⭐  Ofertas de Roadtripeado",
+      "region": "Área Metro",
+      "municipio": "Metro / Norte PR",
+      "access": "-",
+      "contact": "Tel: 787-375-4723 | Wow Jet Ski | San Juan",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "⭐  Ofertas de Roadtripeado",
+      "region": "Área Metro",
+      "municipio": "La Mina Mexicana",
+      "access": "Bayamón",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Utopia Food Truck",
+      "category": "⭐  Ofertas de Roadtripeado",
+      "region": "Norte",
+      "municipio": "Hatillo",
+      "access": "-",
+      "contact": "Tel: 939-452-2151 | Brisas y Leña - Pizza a Leña | Hatillo",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "-",
+      "category": "⭐  Ofertas de Roadtripeado",
+      "region": "Norte",
+      "municipio": "Selfie Vibes House",
+      "access": "Arecibo",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Tel: 787-485-0056",
+      "category": "⭐  Ofertas de Roadtripeado",
+      "region": "Norte",
+      "municipio": "Geoaventura",
+      "access": "Morovis",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Endless Summer Watersport",
+      "category": "⭐  Ofertas de Roadtripeado",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "-",
+      "contact": "Tel: 939-283-8189",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "LaBranza Restaurant & Bar",
+      "category": "⭐  Ofertas de Roadtripeado",
+      "region": "Central / Montaña",
+      "municipio": "Central PR",
+      "access": "-",
+      "contact": "Tel: 787-991-5189",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Green Nest",
+      "category": "🏠  Airbnb's & Hotel",
+      "region": "Área Metro",
+      "municipio": "Guaynabo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Camp Liara",
+      "category": "🏠  Airbnb's & Hotel",
+      "region": "Norte",
+      "municipio": "Isabela",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Be Happy",
+      "category": "🏠  Airbnb's & Hotel",
+      "region": "Sur",
+      "municipio": "Santa Isabel",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Aloft Ponce",
+      "category": "🏠  Airbnb's & Hotel",
+      "region": "Sur",
+      "municipio": "Ponce",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Casa Playita",
+      "category": "🏠  Airbnb's & Hotel",
+      "region": "Oeste",
+      "municipio": "Noroeste PR",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Orange B Living (OB1)",
+      "category": "🏠  Airbnb's & Hotel",
+      "region": "Oeste",
+      "municipio": "Mayagüez",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Orange B Living (OB3)",
+      "category": "🏠  Airbnb's & Hotel",
+      "region": "Oeste",
+      "municipio": "Cabo Rojo",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    },
+    {
+      "name": "Monte Canela",
+      "category": "🏠  Airbnb's & Hotel",
+      "region": "Central / Montaña",
+      "municipio": "Orocovis",
+      "access": "-",
+      "contact": "-",
+      "familyFriendly": true,
+      "coordinates": null
+    }
+  ]
 }
