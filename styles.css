@@ -1,77 +1,236 @@
-:root {
-  --bg: #081229;
-  --panel: #0f1d3d;
-  --panel-soft: #13254d;
-  --text: #eef4ff;
-  --muted: #b4c4e4;
-  --accent: #00d2ff;
-  --accent-2: #5ef38c;
-}
-* { box-sizing: border-box; }
-body {
+/* --------------------------------------------------------------------------
+   Global Styles and Theme
+   This stylesheet applies a modern, professional aesthetic to the Roadtripeado
+   Puerto Rico road‑trip planner. It uses a soft colour palette inspired by
+   Caribbean landscapes and clean, responsive layouts to ensure the site looks
+   polished on desktop and mobile devices.
+--------------------------------------------------------------------------- */
+
+/* Reset margins and paddings, and use border‑box sizing for predictable
+   element dimensions. */
+* {
   margin: 0;
-  font-family: Inter, system-ui, -apple-system, sans-serif;
-  color: var(--text);
-  background: radial-gradient(circle at top, #11306e, var(--bg) 55%);
+  padding: 0;
+  box-sizing: border-box;
 }
-.hero { padding: 3rem 1rem 1.5rem; text-align: center; }
-.hero__content { max-width: 860px; margin: 0 auto; }
-.badge {
+
+/* Base typography and background */
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  background-color: #f5f7fa;
+  color: #333;
+}
+
+/* HERO SECTION ------------------------------------------------------------- */
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 60vh;
+  padding: 4rem 2rem;
+  /* A vibrant gradient reminiscent of tropical skies */
+  background: linear-gradient(135deg, #0074D9 0%, #00BBD8 100%);
+  color: #fff;
+  position: relative;
+}
+
+/* Semi‑transparent badge at the top of the hero section */
+.hero .badge {
   display: inline-block;
-  padding: .35rem .75rem;
+  padding: 0.4rem 0.8rem;
+  margin-bottom: 1rem;
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
   border-radius: 999px;
-  background: rgba(0, 210, 255, .18);
-  border: 1px solid rgba(0, 210, 255, .5);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
-h1 { margin: 1rem 0 .5rem; font-size: clamp(1.8rem, 4vw, 3rem); }
+
+.hero h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  max-width: 650px;
+  margin: 0 auto;
+  opacity: 0.9;
+}
+
+/* LAYOUT ------------------------------------------------------------------ */
 .layout {
-  max-width: 1100px;
-  margin: 0 auto 3rem;
+  max-width: 1200px;
+  margin: -4rem auto 3rem;
   padding: 0 1rem;
-  display: grid;
-  gap: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  position: relative;
+  z-index: 1; /* ensures panels overlap hero section neatly */
 }
+
+/* PANELS ------------------------------------------------------------------ */
 .panel {
-  background: linear-gradient(180deg, var(--panel), var(--panel-soft));
-  border: 1px solid rgba(255, 255, 255, .08);
-  border-radius: 16px;
-  padding: 1rem;
-  box-shadow: 0 14px 30px rgba(0, 0, 0, .28);
+  background: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  padding: 2rem;
+  flex: 1 1 350px;
+  display: flex;
+  flex-direction: column;
 }
+
+.panel h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  color: #0074D9;
+}
+
+/* GRID for form controls */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-  gap: .8rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
 }
-label { display: grid; gap: .35rem; color: var(--muted); font-size: .88rem; }
-select, button {
-  border-radius: 10px;
-  border: 1px solid rgba(255, 255, 255, .14);
-  background: #09152f;
-  color: var(--text);
-  padding: .6rem .7rem;
+
+label {
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+  color: #555;
+  font-size: 0.9rem;
 }
-.actions { display: flex; gap: .6rem; margin-top: .9rem; }
-button { cursor: pointer; font-weight: 600; }
-button#planBtn { background: linear-gradient(120deg, var(--accent), #579bff); color: #042542; border: none; }
-button.ghost { background: transparent; }
-.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .6rem; }
-.stat {
-  padding: .85rem;
-  border-radius: 12px;
-  background: rgba(255, 255, 255, .03);
-  border: 1px solid rgba(255, 255, 255, .08);
+
+label select {
+  margin-top: 0.4rem;
+  padding: 0.6rem;
+  border: 1px solid #dee2e6;
+  border-radius: 0.3rem;
+  background: #fff;
+  font-size: 1rem;
+  color: #333;
+  transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
-.stat b { display: block; font-size: 1.35rem; color: var(--accent-2); }
-.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: .8rem; }
+
+label select:focus {
+  outline: none;
+  border-color: #0074D9;
+  box-shadow: 0 0 0 3px rgba(0, 116, 217, 0.25);
+}
+
+/* ACTION BUTTONS ----------------------------------------------------------- */
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+button {
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.8rem 1.6rem;
+  border: none;
+  border-radius: 0.4rem;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+button#planBtn {
+  background-color: #0074D9;
+  color: #fff;
+}
+
+button#planBtn:hover {
+  background-color: #005fa3;
+}
+
+button.ghost {
+  background: transparent;
+  color: #0074D9;
+  border: 2px solid #0074D9;
+}
+
+button.ghost:hover {
+  background: #0074D9;
+  color: #fff;
+}
+
+/* STATS PANEL ------------------------------------------------------------- */
+#stats {
+  /* placeholder styles for dynamic stats; update in script if needed */
+  min-height: 150px;
+}
+
+/* CARDS ------------------------------------------------------------------ */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+}
+
 .card {
-  background: rgba(3, 15, 39, .75);
-  border: 1px solid rgba(255, 255, 255, .09);
-  border-radius: 12px;
-  padding: .8rem;
+  background: #f9fafb;
+  border-radius: 0.5rem;
+  padding: 1.2rem 1.4rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
 }
-.meta, .contact { color: var(--muted); font-size: .9rem; }
-.tags { color: #86dcff; font-size: .84rem; }
-@media (max-width: 640px) {
-  .hero { padding-top: 2rem; }
+
+.card h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #0074D9;
+  margin-bottom: 0.3rem;
+}
+
+.card p {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.card .tags {
+  font-weight: 500;
+  color: #0074D9;
+}
+
+/* RESPONSIVE TWEAKS ------------------------------------------------------- */
+@media (max-width: 768px) {
+  .hero {
+    padding: 3rem 1.5rem;
+  }
+  .hero h1 {
+    font-size: 2rem;
+  }
+  .layout {
+    margin-top: -2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 1.7rem;
+  }
+  .hero p {
+    font-size: 0.95rem;
+  }
+  button {
+    width: 100%;
+    text-align: center;
+  }
+  .actions {
+    flex-direction: column;
+  }
 }
